@@ -1,0 +1,6 @@
+C:\Users\mac\Documents\Csharp_Programs\examples\examples\bin\Debug\examples.exe.config
+C:\Users\mac\Documents\Csharp_Programs\examples\examples\bin\Debug\examples.exe
+C:\Users\mac\Documents\Csharp_Programs\examples\examples\bin\Debug\examples.pdb
+C:\Users\mac\Documents\Csharp_Programs\examples\examples\obj\Debug\examples.csprojAssemblyReference.cache
+C:\Users\mac\Documents\Csharp_Programs\examples\examples\obj\Debug\examples.exe
+C:\Users\mac\Documents\Csharp_Programs\examples\examples\obj\Debug\examples.pdb
